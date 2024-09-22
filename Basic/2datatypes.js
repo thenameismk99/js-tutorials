@@ -25,4 +25,4 @@ symbol =>  to fing unique symbol
 // Object
 
 console.log(typeof undefined);  // undefined
-console.log(typeof null);  // undefined
+console.log(typeof null);  // object
