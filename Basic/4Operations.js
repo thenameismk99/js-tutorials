@@ -1,12 +1,12 @@
 // Operaions
 
-let value = 3;
-let negValue = -value;
+// let value = 3;
+// let negValue = -value;
 // console.log(negValue);
 
-let str1 = "Hello";
-let str2 = " Mahesh";
-let str3 = str1 + str2;
+// let str1 = "Hello";
+// let str2 = " Mahesh";
+// let str3 = str1 + str2;
 
 // console.log(str3);
 // console.log("1" +2);
@@ -27,3 +27,4 @@ gameCounter++;
 console.log(gameCounter);
 
 
+console.log("Hi");
